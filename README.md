@@ -16,10 +16,10 @@ Case scenarios for different geographical positions are in repositories with nam
 
 Currently, there are such available case scenarios: 
 1. Urmia lake [data_urmia](https://github.com/BottomRedoxModel/data_urmia)
-1. Berre lagoon [data_berre](https://github.com/BottomRedoxModel/data_berre),
-1. Hardangerfjord [data_hardangerfjord](https://github.com/BottomRedoxModel/data_hardangerfjord),
-1. Eastern Baltic Sea [data_baltic](https://github.com/BottomRedoxModel/data_baltic),
-1. Lindesnes [data_lindesnes](https://github.com/BottomRedoxModel/data_lindesnes),
+1. Berre lagoon [data_berre](https://github.com/BottomRedoxModel/data_berre)
+1. Hardangerfjord [data_hardangerfjord](https://github.com/BottomRedoxModel/data_hardangerfjord)
+1. Eastern Baltic Sea [data_baltic](https://github.com/BottomRedoxModel/data_baltic)
+1. Lindesnes [data_lindesnes](https://github.com/BottomRedoxModel/data_lindesnes)
 
 
 
