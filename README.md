@@ -10,7 +10,8 @@ It consists of transport models:
 and biogeochemical model BROM_biogeochemistry. 
 
 [Published version](https://www.geosci-model-dev.net/10/453/2017/) of BROM_transport + BROM_biogeochemistry (BROM v.1.1) can be found here  :
-[BROM_transport](https://github.com/e-yakushev/brom-git/releases) , [BROM_biogeochemistry](https://github.com/fabm-model/fabm/tree/master/src/models/niva/brom).
+* [BROM_transport](https://github.com/e-yakushev/brom-git/releases) 
+* [BROM_biogeochemistry](https://github.com/fabm-model/fabm/tree/master/src/models/niva/brom).
 
 Code of SPBM could be found [here](https://github.com/limash/IPBM/releases), 
 
