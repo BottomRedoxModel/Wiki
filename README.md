@@ -18,7 +18,7 @@ Code of SPBM could be found [here](https://github.com/limash/IPBM/releases),
 [Paper about SPBM (under revision)](https://www.geosci-model-dev-discuss.net/gmd-2017-299/gmd-2017-299.pdf)
 
 Since publication, the code has been significantly changed. 
-Here are current versions of [BROM_transport](https://github.com/BottomRedoxModel/brom-git), [BROM_biogeochemistry](https://github.com/BottomRedoxModel/brom_niva_module) and [IPBM](https://github.com/BottomRedoxModel/IPBM). 
+Here are current versions of [BROM_transport](https://github.com/BottomRedoxModel/brom-git), [BROM_biogeochemistry](https://github.com/BottomRedoxModel/brom_niva_module) and [SPBM](https://github.com/BottomRedoxModel/IPBM). 
 
 Case scenarios for different geographical positions are in repositories with names "data_Name_of_case".
 
