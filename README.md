@@ -1,4 +1,4 @@
-### Welcome to the Bottom RedOx model wiki!
+## Welcome to the Bottom RedOx model wiki!
 
 **Bottom RedOx Model(BROM)** is a group of coupled benthic-pelagic models for simulation of water and sediment biogeochemistry. 
 BROM is compatible with the Framework for Aquatic Biogeochemical Models [FABM](https://github.com/fabm-model).
