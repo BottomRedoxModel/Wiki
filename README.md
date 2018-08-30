@@ -7,16 +7,22 @@ It consists of transport models:
 * BROM_transport
 * SPBM - Sympagic Bethic Pelagic Model 
 
-and biogeochemical model BROM_biogeochemistry. 
+and biogeochemical model:
+* BROM_biogeochemistry
 
-[Published version](https://www.geosci-model-dev.net/10/453/2017/) of **BROM_transport** + **BROM_biogeochemistry** (BROM v.1.1) can be found here  :
+
+Published versions   can be found here :
 * [BROM_transport](https://github.com/e-yakushev/brom-git/releases) 
-* [BROM_biogeochemistry](https://github.com/fabm-model/fabm/tree/master/src/models/niva/brom).
+* [BROM_biogeochemistry](https://github.com/fabm-model/fabm/tree/master/src/models/niva/brom)
+* [SPBM](https://github.com/limash/IPBM/releases)
 
-Published of **SPBM** could be found [here](https://github.com/limash/IPBM/releases),[Paper about SPBM (under revision)](https://www.geosci-model-dev-discuss.net/gmd-2017-299/gmd-2017-299.pdf)
+### Publicatons:
+1. [Bottom RedOx Model (BROM v.1.1): a coupled benthic–pelagic model for simulation of water and sediment biogeochemistry](https://www.geosci-model-dev.net/10/453/2017/)
+1. [A 1-Dimensional Sympagic-Pelagic-Benthic transport model (SPBM) v0.2: Coupled simulation of ice, water column, and sediment biogeochemistry, suitable for Arctic applications](https://www.geosci-model-dev-discuss.net/gmd-2017-299/gmd-2017-299.pdf)
+1. [Modeling the Influence of Eutrophication and Redox Conditions on Mercury Cycling at the Sediment-Water Interface in the Berre Lagoon](https://www.frontiersin.org/articles/10.3389/fmars.2018.00291/full)
 
 
-Since publication, the code has been significantly changed. 
+Since publications, the code has been significantly changed. 
 Here are current versions of [BROM_transport](https://github.com/BottomRedoxModel/brom-git), [BROM_biogeochemistry](https://github.com/BottomRedoxModel/brom_niva_module) and [SPBM](https://github.com/BottomRedoxModel/IPBM). 
 
 
