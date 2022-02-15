@@ -5,15 +5,15 @@
 BROM is compatible with the Framework for Aquatic Biogeochemical Models [FABM](https://github.com/fabm-model).
 
 It consists of transport models: 
-* BROM_transport coupled benthic-pelagic model
-* 2DBP - 2 dimensional transport coupled benthic-pelagic model 
-* SPBM - Sympagic Bethic Pelagic Model 
+* BROM_transport coupled benthic-pelagic model (details in [Yakushev et al., 2017](https://www.geosci-model-dev.net/10/453/2017/))
+* 2DBP - 2 dimensional transport coupled benthic-pelagic model (details in [Yakushev et al., 2020](https://www.mdpi.com/2073-4441/12/9/2384))
+* SPBM - Sympagic Bethic Pelagic Model (details in [Yakubov et al., 2019](https://www.mdpi.com/2073-4441/11/8/1582))
 
 and biogeochemical models:
-* BROM_biogeochemistry O-C-Si-N-P-Fe-Mn-S model consisting from modules for elements transfomation parameterization
-* OxyDep - Oxygen Depletion Model to parameterize basic processes of organic mattercycling and oxygen depletion (a light N-O verion of BROM)
+* BROM_biogeochemistry O-C-Si-N-P-Fe-Mn-S model consisting from modules for elements transfomation parameterization (details in [Yakushev et al., 2017](https://www.geosci-model-dev.net/10/453/2017/))
+* OxyDep - Oxygen Depletion Model to parameterize basic processes of organic mattercycling and oxygen depletion (a light N-O verion of BROM) (details in [Berezina  et al., 2020](https://doi.org/10.3390/w13192690 ))
 
-Besides this there are available modules that can be coupled to BROM and Oxydep for modeling fate of Hg, Ni, Microplastics, Fish Farm waste, Chemical Oxygen Demand. 
+Besides this there are available modules that can be coupled to BROM and Oxydep for modeling fate of Hg, Ni, Microplastics, Fish Farm waste, Chemical Oxygen Demand, minerals precipitation/dissolution, CO2 bubbling etc. 
 
 ### Publicatons (BROM related):
 1. [Yakushev, E. V., Protsenko, E. A., Bruggeman, J., Wallhead, P., Pakhomova, S. V., Yakubov, S. Kh., Bellerby, R. G. J., and Couture, R.-M. 2017: Bottom RedOx Model (BROM v.1.1): a coupled benthic–pelagic model for simulation of water and sediment biogeochemistry, Geosci. Model Dev., 10, 453-482, doi:10.5194/gmd-10-453-2017, 2017.](https://www.geosci-model-dev.net/10/453/2017/)
