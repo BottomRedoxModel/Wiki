@@ -5,16 +5,30 @@
 BROM is compatible with the Framework for Aquatic Biogeochemical Models [FABM](https://github.com/fabm-model).
 
 It consists of transport models: 
-* BROM_transport
+* BROM_transport coupled benthic-pelagic model
+* 2DBP - 2 dimensional transport coupled benthic-pelagic model 
 * SPBM - Sympagic Bethic Pelagic Model 
 
-and biogeochemical model:
-* BROM_biogeochemistry
+and biogeochemical models:
+* BROM_biogeochemistry O-C-Si-N-P-Fe-Mn-S model consisting from modules for elements transfomation parameterization
+* OxyDep - Oxygen Depletion Model to parameterize basic processes of organic mattercycling and oxygen depletion (a light N-O verion of BROM)
 
-### Publicatons:
-1. [Bottom RedOx Model (BROM v.1.1): a coupled benthic–pelagic model for simulation of water and sediment biogeochemistry](https://www.geosci-model-dev.net/10/453/2017/)
-1. [A 1-Dimensional Sympagic-Pelagic-Benthic transport model (SPBM) v0.2: Coupled simulation of ice, water column, and sediment biogeochemistry, suitable for Arctic applications](https://www.geosci-model-dev-discuss.net/gmd-2017-299/gmd-2017-299.pdf)
-1. [Modeling the Influence of Eutrophication and Redox Conditions on Mercury Cycling at the Sediment-Water Interface in the Berre Lagoon](https://www.frontiersin.org/articles/10.3389/fmars.2018.00291/full)
+Besides this there are available modules that can be coupled to BROM and Oxydep for modeling fate of Hg, Ni, Microplastics, Fish Farm waste, Chemical Oxygen Demand. 
+
+### Publicatons (BROM related):
+1. [Yakushev, E. V., Protsenko, E. A., Bruggeman, J., Wallhead, P., Pakhomova, S. V., Yakubov, S. Kh., Bellerby, R. G. J., and Couture, R.-M. 2017: Bottom RedOx Model (BROM v.1.1): a coupled benthic–pelagic model for simulation of water and sediment biogeochemistry, Geosci. Model Dev., 10, 453-482, doi:10.5194/gmd-10-453-2017, 2017.](https://www.geosci-model-dev.net/10/453/2017/)
+1. [Pakhomova S., Yakushev E., Protsenko E., Rigaud S., Cossa D., Knoery J., Couture, R.M., Radakovith O., Yakubov Sh., Krzeminska D., Newton A. Modeling the Influence of Eutrophication and Redox Conditions on Mercury Cycling at the Sediment-Water Interface in the Berre Lagoon. Frontiers in Marine Science, V.5, Art. 291, published: 21 August 2018, doi: 10.3389/fmars.2018.00291 ](https://www.frontiersin.org/articles/10.3389/fmars.2018.00291/full)
+1. [Yakubov S., Wallhead P, Protsenko E., Yakushev E., Pakhomova S, Brix H. 2019. A 1-Dimensional Sympagic–Pelagic–Benthic Transport Model (SPBM): Coupled Simulation of Ice, Water Column, and Sediment Biogeochemistry, Suitable for Arctic Applications. Water. 2019, 11, 1582; doi:10.3390/w11081582](https://www.mdpi.com/2073-4441/11/8/1582)
+1. [Yakushev E., Wallhead Ph., Renault P., Ilinskaya A., Protsenko E., Yakubov Sh., Pakhomova S. Sweetman A., Dunlop K., Berezina A., Bellerby R., Dale T. 2020.Understanding the Biogeochemical Impacts of Fish Farms using a Benthic-Pelagic Model. Water, 2020, 12, 2384; doi:10.3390/w12092384](https://www.mdpi.com/2073-4441/12/9/2384)
+1. [Pakhomova S., Yakushev E., Schaanning M.T. Modeling nickel leaching from abandoned mine tailing deposits in Jøssingfjorden. Water, 2021, 13(7): 967.](https://www.mdpi.com/2073-4441/13/7/967)
+1. [Yakushev E., Blomberg A.E.A., Eek E., Protsenko E., Totland C., Staalstrøm A., Waaru I.-K. Modeling of biogeochemical consequences of a CO2 leak in the water column with bottom anoxia. International Journal of Greenhouse Gas Control. 2021. 111: 103464. ](https://doi.org/10.1016/j.ijggc.2021.103464)
+
+
+### Publicatons (OxyDep related):
+1. [Yakushev, E. V., E. I. Debolskaya, I. S. Kuznetsov, and A. Staalstrøm. "Modelling of the meromictic fjord Hunnbunn (Norway) with an Oxygen Depletion model (OxyDep)." In Chemical Structure of Pelagic Redox Interfaces, pp. 235-251. Springer, Berlin, Heidelberg, 2011.](https://www.researchgate.net/publication/216683346_Modelling_of_the_Meromictic_Fjord_Hunnbunn_Norway_with_an_Oxygen_Depletion_Model_OxyDep)
+1. [Daewel U., Yakushev E.V., Schrum C., Nizzetto L., Mikheeva E. 2020. Understanding the role of organic matter cycling for the spatio-temporal structure of PCBs in the North Sea. Water. 2020, 12, 817; doi:10.3390/w12030817](https://www.mdpi.com/2073-4441/12/3/817)(https://www.researchgate.net/publication/216683346_Modelling_of_the_Meromictic_Fjord_Hunnbunn_Norway_with_an_Oxygen_Depletion_Model_OxyDep)
+1. [Berezina A., Yakushev E., Drivsdal M., Vogelsang C., Staalstrøm A., Savchuk O. 2021. Modelling the Influence from Biota and Organic Matter on the Transport Dynamics of Microplastics in the Water Column and Bottom Sediments in the Oslo Fjord. Water, 13(19): 2690. ](https://doi.org/10.3390/w13192690 )
+
 
 ### Published versions of the code:
 * [BROM_transport](https://github.com/e-yakushev/brom-git/releases) 
