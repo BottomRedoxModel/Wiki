@@ -24,6 +24,7 @@ Besides this there are available modules that can be coupled to BROM and Oxydep 
 1. [Yakushev, E.V., Nøst, O.A., Bruggeman, J., Ghaffari, P. and Protsenko, E., 2020. Modelling Biogeochemical and Physicochemical Regime Changes During the Drying Period of Lake Urmia. In: The Handbook of Environmental Chemistry. Springer, Berlin, Heidelberg. https://doi.org/10.1007/698_2020_485 ](https://www.mdpi.com/2073-4441/13/7/967)
 1. [Yakushev E., Blomberg A.E.A., Eek E., Protsenko E., Totland C., Staalstrøm A., Waaru I.-K. Modeling of biogeochemical consequences of a CO2 leak in the water column with bottom anoxia. International Journal of Greenhouse Gas Control. 2021. 111: 103464. ](https://doi.org/10.1016/j.ijggc.2021.103464)
 1. [Gurova, Y.S., Yakushev, E.V., Berezina, A.V., Novikov, M.O., Gurov, K.I. and Orekhova, N.A., Numerical Modelling of RedOx Condition Dynamics at the Water-Sediment Interface in Sevastopol Bay. Ecological Safety of Coastal and Shelf Zones of Sea. No. 2. 2023 doi: 0.22449/2413-5577-2023-2-71-90](http://ecological-safety.ru/en/repository/issues/2023/02/05/20230205.pdf)
+2. [Novikov, M., Pakhomova, S., Berezina, A. and Yakushev, E., 2024. Model-Based Analysis of the Oxygen Budget in the Black Sea Water Column. Water, 16(17), p.2380.](https://www.mdpi.com/2073-4441/16/17/2380)
 
 
 ### Publicatons (OxyDep related):
