@@ -25,7 +25,7 @@ Besides this there are available modules that can be coupled to BROM and Oxydep 
 1. [Yakushev E., Blomberg A.E.A., Eek E., Protsenko E., Totland C., Staalstrøm A., Waaru I.-K. Modeling of biogeochemical consequences of a CO2 leak in the water column with bottom anoxia. International Journal of Greenhouse Gas Control. 2021. 111: 103464. ](https://doi.org/10.1016/j.ijggc.2021.103464)
 1. [Gurova, Y.S., Yakushev, E.V., Berezina, A.V., Novikov, M.O., Gurov, K.I. and Orekhova, N.A., Numerical Modelling of RedOx Condition Dynamics at the Water-Sediment Interface in Sevastopol Bay. Ecological Safety of Coastal and Shelf Zones of Sea. No. 2. 2023 doi: 0.22449/2413-5577-2023-2-71-90](http://ecological-safety.ru/en/repository/issues/2023/02/05/20230205.pdf)
 2. [Novikov, M., Pakhomova, S., Berezina, A. and Yakushev, E., 2024. Model-Based Analysis of the Oxygen Budget in the Black Sea Water Column. Water, 16(17), p.2380.](https://www.mdpi.com/2073-4441/16/17/2380)
-2. [Yakushev, E.V., Berezina, A., Shakhova, N., Bruggeman, J., Wallhead, P., Staaltrøm, A., Novikov, M., Yakubov, S., Zagovenkova, A., Ardelan, M.V. and Bellerby, R., Model based analysis of the methane seeping influence on the acidification in the East Siberian Arctic Shelf waters. Frontiers in Marine Science, 12, p.1497616.](https://www.frontiersin.org/articles/10.3389/fmars.2025.1497616)
+2. [Yakushev, E.V., Berezina, A., Shakhova, N., Bruggeman, J., Wallhead, P., Staaltrøm, A., Novikov, M., Yakubov, S., Zagovenkova, A., Ardelan, M.V. and Bellerby, R., 2025. Model based analysis of the methane seeping influence on the acidification in the East Siberian Arctic Shelf waters. Frontiers in Marine Science, 12, p.1497616.](https://www.frontiersin.org/articles/10.3389/fmars.2025.1497616)
 
 
 
